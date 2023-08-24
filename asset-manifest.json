@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.3b882e91.css",
+    "main.js": "/profile/static/js/main.cedbfc00.js",
+    "static/js/787.28cb0dcd.chunk.js": "/profile/static/js/787.28cb0dcd.chunk.js",
+    "static/media/profile.gif": "/profile/static/media/profile.18f0fc82d634e1e3e35c.gif",
+    "static/media/temp1.png": "/profile/static/media/temp1.afa3772c2dd0765f9c80.png",
+    "static/media/CentraNo2-Bold.ttf": "/profile/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/profile/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/profile/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/lng-kingdom.png": "/profile/static/media/lng-kingdom.8c734c37821418f84d40.png",
+    "static/media/contact-img.svg": "/profile/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/lng-vietnam.png": "/profile/static/media/lng-vietnam.a7a251f3ce4a10a7fd18.png",
+    "static/media/logo.png": "/profile/static/media/logo.1111089da1e2ea8e0e14.png",
+    "static/media/bitbucket.ico": "/profile/static/media/bitbucket.ea694af971d7cf151515.ico",
+    "static/media/mysql-icon.ico": "/profile/static/media/mysql-icon.0179f696ac0dc4da9944.ico",
+    "static/media/python.ico": "/profile/static/media/python.b1659edd0c7b73e533f0.ico",
+    "static/media/tailwind.ico": "/profile/static/media/tailwind.2cc3586c9ecb3d40c592.ico",
+    "static/media/telegram.svg": "/profile/static/media/telegram.3f46640708d05f9490af473dac8788eb.svg",
+    "index.html": "/profile/index.html",
+    "static/media/nav-icon1.svg": "/profile/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/getFetch.cjs": "/profile/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "static/media/nav-icon2.svg": "/profile/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.3b882e91.css.map": "/profile/static/css/main.3b882e91.css.map",
+    "main.cedbfc00.js.map": "/profile/static/js/main.cedbfc00.js.map",
+    "787.28cb0dcd.chunk.js.map": "/profile/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b882e91.css",
+    "static/js/main.cedbfc00.js"
+  ]
+}
